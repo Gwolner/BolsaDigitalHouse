@@ -1,8 +1,22 @@
 # Programa de Bolsas Digital House
 
-> Participação no programa de bolsas de estudo da Digital House, onde foram oferecidas 300 bolsas, sendo 150 para Marketing Digital e 150 para Desenvolvimento Web Full Stack.
+> Programa naiconal de bolsas de estudo da Digital House, em que foram oferecidas 300 bolsas, sendo 150 para o curso de Marketing Digital e 150 para o curso de Desenvolvimento Web Full Stack.
 
-## Desafio - Professora Furiosa
+<img src="img/logo.JPEG" />
+
+## Classificação
+
+Após finalizados o teste de lógica, os exercicios e os desafios online, obtive a classificação de 3º lugar estadual.
+Com esta classificação, ganhei a bolsa de 70% do curso de Desenvolvimento Web Full Stack.
+
+<img src="img/ranking.JPEG" />
+<br>
+<img src="img/bolsa.JPEG" />
+
+
+## Desafios 
+
+### Professora Furiosa
 
 Uma professora de programação, cansada de que os estudantes cheguem tarde, decidiu que vai cancelar a aula se há poucos presentes.
 
@@ -29,7 +43,7 @@ aberturas([alunosDaSegunda, alunosDaTerça, alunosDaQuarta], 2)
 [true, false, false]
 ```
 
-## Desafio - Produto
+### Produto
 
 Necessitamos uma função `produto` que receba um array de números e retorne o produto: o resultado de multiplicar todos os elementos entre si.
 
@@ -37,12 +51,11 @@ Por exemplo, `produto([1, 4, 7])` deve retornar `28`, que é `1 * 4 * 7`.
 
 > Escreva a função `produto`.
 
-
-## Desafio - Fatorial
+### Fatorial
 
 Escreva uma função `fatorial`, que calcule o fatorial de um número.
 
-## Desafio - Mais Menos
+### Mais Menos
 
 Necessitamos uma função `maisMenos` que receba um array e retorne outro com os seguintes três números:
 
@@ -54,8 +67,7 @@ Por exemplo, `maisMenos([1, 2, 0, -1])`  deveria retornar `[0.5, 0.25, 0.25]`, d
 
 > Escreva a função `maisMenos`.
 
-
-## Desafio - Escada
+### Escada
 
 Queremos representar uma escada com altura variável, utilizando um array de strings.
 
@@ -82,7 +94,7 @@ var escada5 = [
 
 > Escreva uma função `escada` que utilize uma altura (um número) e retorne um array que represente a escada correspondente.
 
-## Desafio - Árvore utópica
+### Árvore utópica
 
 As árvores utópicas  crescem de uma forma particular, em dois ciclos:
 
