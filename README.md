@@ -2,17 +2,17 @@
 
 > Programa naiconal de bolsas de estudo da Digital House, em que foram oferecidas 300 bolsas, sendo 150 para o curso de Marketing Digital e 150 para o curso de Desenvolvimento Web Full Stack.
 
-<img src="img/logo.JPEG" />
+<img src="img/logo.JPG" />
 
 ## Classificação
 
 Após finalizados o teste de lógica, os exercicios e os desafios online, obtive a classificação de 3º lugar estadual.
+
+<img src="img/ranking.JPG" />
+
 Com esta classificação, ganhei a bolsa de 70% do curso de Desenvolvimento Web Full Stack.
 
-<img src="img/ranking.JPEG" />
-<br>
-<img src="img/bolsa.JPEG" />
-
+<img src="img/bolsa.JPG" />
 
 ## Desafios 
 
