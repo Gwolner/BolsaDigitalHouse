@@ -14,6 +14,8 @@ Com esta classificação, ganhei a bolsa de 70% do curso de Desenvolvimento Web 
 
 <img src="img/bolsa.JPG" />
 
+A lista oficial com todos os aprovados pode ser vista [aqui](https://github.com/Gwolner/bolsas-digital-house/blob/master/Resultado-Bolsa-DH-Full-Stack.pdf). 
+
 ## Desafios 
 
 ### Professora Furiosa
