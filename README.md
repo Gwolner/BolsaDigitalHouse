@@ -1,6 +1,6 @@
 # Programa de Bolsas Digital House
 
-> Programa naiconal de bolsas de estudo da Digital House, em que foram oferecidas 300 bolsas, sendo 150 para o curso de Marketing Digital e 150 para o curso de Desenvolvimento Web Full Stack.
+> Programa nacional de bolsas de estudo da Digital House, em que foram oferecidas 300 bolsas, sendo 150 para o curso de Marketing Digital e 150 para o curso de Desenvolvimento Web Full Stack.
 
 <img src="img/logo.JPG" />
 
